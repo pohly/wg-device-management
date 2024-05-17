@@ -14,7 +14,7 @@ spec:
         maximum: 8
       requirements:
       - resource:
-          name: memory
+          name: memory.example.com-foozer
           quantity: 128Gi
 ---
 apiVersion: v1
